@@ -44,3 +44,4 @@ function show(response, postData) {
 
 exports.start = start;
 exports.upload = upload;
+exports.shot = show;
